@@ -1,0 +1,14 @@
+# Ignore all content in Daily
+personal/daily
+work/daily
+
+# Ignore all additional notes
+**notes/
+
+# Ignore all individual markdown files
+personal/*.md
+work/*.md
+
+# There is a specific set of directories for work, ignore those
+work/reading-material
+
